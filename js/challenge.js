@@ -83,3 +83,5 @@ plus.addEventListener('click',increment);
 minus.addEventListener('click',decrement);
 pause.addEventListener('click',stop)
 let timer=setInterval(timerStart,1000)
+
+
